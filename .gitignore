@@ -2,3 +2,4 @@ node_modules/
 cypress/plugins
 cypress/support
 .idea
+.vercel

@@ -1,5 +1,5 @@
 {
-  "name": "fullstack-boilerplate",
+  "name": "what-to=make",
   "version": "1.0.0",
   "scripts": {
     "build:backend": "cd app-express && npm install && npm run build",
