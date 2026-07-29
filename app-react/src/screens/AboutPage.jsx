@@ -40,13 +40,13 @@ function AboutPage() {
           </p>
           <p>
             Shout out to all the chefs and resources who contributed to the
-            cookbook: Tiara Andress, Ashely Lujares, Veo Robert, AmarahHerzig,
-            Aminah Herzig, Beatriz Abascal, ZulmaPerez, Carolina Perez, Tabia
+            cookbook: Tiara Andress, Ashely Lujares, Veo Robert, Amarah Herzig,
+            Aminah Herzig, Beatriz Abascal, Zulma Perez, Carolina Perez, Tabia
             Gustave, Gisele Gaffney, Valerie Nin, Ariane Chacker-Bourrut,
             Giovanny Zuniga, Ana Vanegas, Jazmin Castellon, Priyanka Rangadass,
-            Barbara Espinosa, Trang Le, Brian Axelrod, Don Bennett,NYT Cooking,
+            Barbara Espinosa, Trang Le, Brian Axelrod, Don Bennett, NYT Cooking,
             Serious Eats, Love and Lemons, HeartBeet Kitchen, All Recipes,
-            Cooking for Keeps, GoodHousekeeping, Food Network, Sally’s Baking
+            Cooking for Keeps, Good Housekeeping, Food Network, Sally’s Baking
             Addiction, Delish, Bon Apetit, Adrian Foster, Jojo Emerson
           </p>
         </div>
