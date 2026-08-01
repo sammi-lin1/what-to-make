@@ -38,4 +38,13 @@ npm run start:frontend # only React frontend
 ---
 
 Boilerplate retrieved from [Alva Labs](https://www.alvalabs.io/).
+
 Developer Note: I started with this framework because the entry point was super easy. In future versions, I'll be switching to Next.js
+
+## Next Steps
+
+V1 of What to Make
+UI updates including finalizing colorway and adding better loading graphics.
+
+V2 of What to Make
+In the next version, this app will be using Next.js as the framework. There really isn't a good reason for why I chose to use a boilerplate besides the fact that the entry point was so straightforward. After that overhaul, I'd like to introduce a browsing feature and a more robust pdf to json parser that can handle messy data however it may be structured.
