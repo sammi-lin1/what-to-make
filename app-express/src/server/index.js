@@ -1,15 +1,13 @@
-const http = require("http");
-
 const app = require("./app");
 
-const server = http.createServer(app);
+if (require.main === module) {
+  const http = require("http");
 
-const PORT = process.env.PORT || 8000;
+  const PORT = process.env.PORT || 8000;
 
-server.listen(PORT, (error) => {
-  if (error) {
-    return console.log(error);
-  }
+  http.createServer(app).listen(PORT, () => {
+    console.log(`🚀 Server started on port ${PORT}`);
+  });
+}
 
-  console.log("🚀 Server started on port " + PORT);
-});
+module.exports = app;

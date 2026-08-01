@@ -1,13 +1,14 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router";
 import "./RecipePage.css";
+import { api } from "../api";
 
 function RecipePage() {
   const [recipe, setRecipe] = useState([]);
   const { id } = useParams();
-
+  
   useEffect(() => {
-    fetch(`http://localhost:8000/recipes/${id}`)
+    fetch(api(`/recipes/${id}`))
       .then((res) => res.json())
       .then((data) => setRecipe(data))
       .catch((err) => console.log("Fetch error: ", err));

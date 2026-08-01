@@ -3,3 +3,6 @@ cypress/videos
 cypress/plugins
 cypress/screenshots
 cypress/support
+.env
+.env.local
+.env.*.local
