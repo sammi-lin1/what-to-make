@@ -39,8 +39,6 @@ npm run start:frontend # only React frontend
 
 Boilerplate retrieved from [Alva Labs](https://www.alvalabs.io/).
 
-Developer Note: I started with this framework because the entry point was super easy. In future versions, I'll be switching to Next.js
-
 ## Next Steps
 
 V1 of What to Make
