@@ -4,8 +4,9 @@
 
 .why-container,
 .thankyou-container,
-.contact-container {
-  padding: .1rem 1.3rem;
+.contact-container,
+.next-steps-container {
+  padding: 0.1rem 1.3rem;
   margin-top: 2rem;
   border-radius: 1vh;
 }
@@ -16,6 +17,10 @@
 
 .thankyou-container {
   background-color: #f4b249;
+}
+
+.next-steps-container {
+  background-color: #f7f7f7;
 }
 
 .a-greenroots {
@@ -37,7 +42,8 @@
   }
 
   .why-container,
-  .thankyou-container {
+  .thankyou-container,
+  .next-steps-container {
     padding: 1.5rem 5rem;
   }
 }
