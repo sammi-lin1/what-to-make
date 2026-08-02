@@ -45,7 +45,7 @@ function AboutPage() {
             Barbara Espinosa, Trang Le, Brian Axelrod, Don Bennett, NYT Cooking,
             Serious Eats, Love and Lemons, HeartBeet Kitchen, All Recipes,
             Cooking for Keeps, Good Housekeeping, Food Network, Sally’s Baking
-            Addiction, Delish, Bon Apetit, Adrian Foster, Jojo Emerson
+            Addiction, Delish, Bon Apetit, Adrian Forster, and Jojo Emerson.
           </p>
         </div>
 
@@ -59,9 +59,7 @@ function AboutPage() {
           <p>
             In the long term, I am looking to rebuild the foundation of the
             website using a modern framework: Next.js. Right now, this is built
-            on sticks, rocks, and a dream 😄. There really isn't a good reason
-            for why I chose to use a boilerplate besides the fact that the entry
-            point was so straightforward. After that overhaul, I'd like to
+            on sticks, rocks, and a dream 😄. After that overhaul, I'd like to
             introduce a browsing feature and a robust pdf to json parser that
             can handle messy unstructured data of all shapes and sizes.
           </p>
